@@ -1,1 +1,1 @@
-../../../../../fisher/fisher.fish
+../../../../../fisher/functions/fisher.fish
